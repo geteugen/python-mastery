@@ -6,3 +6,5 @@ class Stock:
 
     def cost(self):
         return self.shares * self.price
+
+    # test
